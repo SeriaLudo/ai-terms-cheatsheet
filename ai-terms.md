@@ -49,7 +49,7 @@ Malicious input designed to override system prompts or extract sensitive informa
 Providing factual context to an LLM to reduce hallucinations and improve accuracy.
 
 ## Hugging Face
-Open-source ML platform and model hub. "Harness" is their enterprise product.
+Open-source ML platform and model hub. Hosts thousands of pre-trained models and datasets.
 
 ## Harness
-Hugging Face's enterprise AI platform for deploying, fine-tuning, and managing models at scale.
+Software infrastructure that wraps around an LLM/agent, handling tool execution, memory/context management, and orchestration – everything except the model itself. Think of it as the "body" that gives the AI "hands and memory."
